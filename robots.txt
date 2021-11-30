@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /rh-wordpress-eval/wp-admin/
+Allow: /rh-wordpress-eval/wp-admin/admin-ajax.php
